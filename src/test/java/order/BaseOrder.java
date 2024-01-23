@@ -1,6 +1,5 @@
 package order;
 
-import client.OrderApi;
 import client.UserApi;
 import io.qameta.allure.Step;
 import io.restassured.response.ValidatableResponse;
